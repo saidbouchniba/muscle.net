@@ -10,7 +10,7 @@ function Contact() {
     const sendemail =async (e)=>{
 e.preventDefault()
 try {
-    const res = await axios.post ("http://localhost:5000/mail",{name,email,message})
+    const res = await axios.post ("https://muscle-net.onrender.com/mail",{name,email,message})
     if (res.status==200) {
         toast.success("email received")
     }

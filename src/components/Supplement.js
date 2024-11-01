@@ -6,7 +6,7 @@ function Supplement() {
 const [products,setproducts]= useState([])
 const getproducts= async () => {
     try {
-      const res=await axios.get ("http://localhost:5000/all")  
+      const res=await axios.get ("https://muscle-net.onrender.com/all")  
       setproducts(res.data.supplements)
     } catch (error) {
     console.log(error);
