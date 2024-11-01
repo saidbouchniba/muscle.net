@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/muscle.net/static/css/main.7e1d652b.css",
-    "main.js": "/muscle.net/static/js/main.ed33fe69.js",
+    "main.js": "/muscle.net/static/js/main.8c4c0c3b.js",
     "static/media/Logo.png": "/muscle.net/static/media/Logo.a7c664a1ff96395eeac9.png",
     "index.html": "/muscle.net/index.html",
     "main.7e1d652b.css.map": "/muscle.net/static/css/main.7e1d652b.css.map",
-    "main.ed33fe69.js.map": "/muscle.net/static/js/main.ed33fe69.js.map"
+    "main.8c4c0c3b.js.map": "/muscle.net/static/js/main.8c4c0c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.7e1d652b.css",
-    "static/js/main.ed33fe69.js"
+    "static/js/main.8c4c0c3b.js"
   ]
 }
