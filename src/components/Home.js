@@ -1,12 +1,12 @@
 import React from 'react'
-
+import muscle from '../assets/MUSCLE1.png'
 function Home() {
     return(
         <section className="pt-12 pt-lg-24 pt-xl-32 position-relative overflow-hidden" >
   
   <img
     className="position-absolute top-0 start-0"
-    src="/MUSCLE1.png"
+    src={muscle}
     alt=""
     style={{height:"100vh",width:"100%"}}
   />
